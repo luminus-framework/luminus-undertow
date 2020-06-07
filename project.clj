@@ -1,4 +1,4 @@
-(defproject luminus-undertow "0.1.4"
+(defproject luminus-undertow "0.1.5"
   :description "Undertow adapter for Luminus"
   :url "https://github.com/luminus-framework/luminus-undertow"
   :license {:name "Eclipse Public License"
