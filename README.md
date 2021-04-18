@@ -2,6 +2,8 @@
 
 Undertow HTTP adapter for Luminus
 
+[![Clojars Project](https://img.shields.io/clojars/v/luminus-undertow.svg)](https://clojars.org/luminus-undertow)
+
 ### HTTP handler
 
 ```clojure
